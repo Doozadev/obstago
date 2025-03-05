@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "icloud.com"
+            ]
+        },
+        {
+            "domain_keyword": [
+                "porn"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "*.google.com"
+            ]
+        }
+    ]
+}
