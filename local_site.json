@@ -1,0 +1,25 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "opencloud.today",
+                "icloud.com.cn"
+            ]
+        },
+        {
+            "domain_keyword": [
+                "tuna",
+                "ustc"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "*.aliyun.com",
+                "*.edu.cn",
+                "*.qwen.ai",
+                "*.tencent.com"
+            ]
+        }
+    ]
+}
