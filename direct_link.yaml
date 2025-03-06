@@ -1,0 +1,10 @@
+#直连
+#################################域名
+DOMAIN,opencloud.today
+DOMAIN,icloud.com.cn
+#################################前缀
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,qwen.ai
+#################################关键字
+DOMAIN-KEYWORD,tuna
+DOMAIN-KEYWORD,ustc
