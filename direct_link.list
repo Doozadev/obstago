@@ -1,8 +1,9 @@
 #直连
 #################################域名
-DOMAIN,opencloud.today
 DOMAIN,icloud.com.cn
+DOMAIN,opencloud.today
 #################################前缀
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,qwen.ai
 #################################关键字
