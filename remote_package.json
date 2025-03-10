@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "com.android.vending",
+        "com.dropbox.android",
+        "com.google.android.apps.docs",
+        "com.google.android.apps.maps",
+        "com.google.android.apps.subscriptions.red",
+        "com.google.android.calendar",
+        "com.google.android.gsf",
+        "com.google.android.gms",
+        "com.google.android.keep",
+        "com.google.android.youtube",
+        "com.twitter.android",
+        "org.telegram.messenger"
+      ]
+    }
+  ]
+}
