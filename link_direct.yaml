@@ -1,0 +1,11 @@
+payload:
+  ###############################域名
+  - OMAIN,icloud.com.cn
+  - OMAIN,opencloud.today
+  ###############################前缀
+  - OMAIN-SUFFIX,bing.com
+  - OMAIN-SUFFIX,edu.cn
+  - OMAIN-SUFFIX,qwen.ai
+  ###############################关键字
+  - OMAIN-KEYWORD,tuna
+  - OMAIN-KEYWORD,ustc
