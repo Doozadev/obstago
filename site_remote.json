@@ -13,7 +13,10 @@
         },
         {
             "domain_suffix": [
-                "*.google.com"
+                "*.google.com",
+                "wiki.metacubex.one",
+                "sing-box.sagernet.org",
+                "t66y.com"
             ]
         }
     ]
