@@ -5,6 +5,13 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,wiki.metacubex.one
   - DOMAIN-SUFFIX,sing-box.sagernet.org
+  - DOMAIN-SUFFIX,dns.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,dns.google
+  - DOMAIN-SUFFIX,dns.twnic.tw
+  - DOMAIN-SUFFIX,doh.opendns.com
+  - DOMAIN-SUFFIX,doh.dns.sb
+  - DOMAIN-SUFFIX,dns.quad9.net
   #################################关键字
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-KEYWORD,porn
