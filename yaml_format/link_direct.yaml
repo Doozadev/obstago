@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN-SUFFIX,dot.pub
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,qwen.ai
   ###############################关键字
