@@ -4,7 +4,10 @@
         {
             "domain": [
                 "opencloud.today",
-                "icloud.com.cn"
+                "icloud.com.cn",
+                "dns.alidns.com",
+                "dot.pub",
+                "doh.pub"
             ]
         },
         {
