@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,dot.pub
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,music.apple.com
   ###############################关键字
   - DOMAIN-KEYWORD,tuna
   - DOMAIN-KEYWORD,ustc
