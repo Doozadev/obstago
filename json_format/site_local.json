@@ -19,7 +19,7 @@
         {
             "domain_suffix": [
                 "*.aliyun.com",
-                "*.bing.com",
+                "bing.com",
                 "*.edu.cn",
                 "*.qwen.ai",
                 "*.tencent.com"
