@@ -18,11 +18,12 @@
         },
         {
             "domain_suffix": [
-                "*.aliyun.com",
+                "aliyun.com",
                 "bing.com",
-                "*.edu.cn",
-                "*.qwen.ai",
-                "*.tencent.com"
+                "edu.cn",
+                "qwen.ai",
+                "tencent.com",
+                "contactofen.site"
             ]
         }
     ]
