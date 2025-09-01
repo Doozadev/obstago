@@ -12,6 +12,9 @@ payload:
   - DOMAIN-SUFFIX,doh.opendns.com
   - DOMAIN-SUFFIX,doh.dns.sb
   - DOMAIN-SUFFIX,dns.quad9.net
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   #################################关键字
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-KEYWORD,porn
