@@ -16,7 +16,11 @@
                 "*.google.com",
                 "wiki.metacubex.one",
                 "sing-box.sagernet.org",
-                "t66y.com"
+                "t66y.com",
+                "googleapis.cn",
+                "googleapis.com",
+                "xn--ngstr-lra8j.com"
+
             ]
         }
     ]
