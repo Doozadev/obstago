@@ -2,7 +2,7 @@
   "version": 3,
   "rules": [
     {
-      "packages_name": [
+      "package_name": [
         "com.android.vending",
         "com.twitter.android",
         "com.pikcloud.pikpak",
