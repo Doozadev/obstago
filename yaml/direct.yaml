@@ -1,0 +1,13 @@
+payload:
+    - icloud.com.cn
+    - dns.alidns.com
+    - doh.pub
+    - dot.pub
+    - *.localhome
+    - *.contactofen.site
+    - *.itunes.apple.com
+    - +.applemusic.com
+    - +.blobstore.apple.com
+    - +.music.apple.com
+    - +.edu.cn
+    - +.zaobao.com
