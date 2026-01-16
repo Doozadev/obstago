@@ -1,0 +1,19 @@
+payload:
+  ###############################域名
+  - DOMAIN,icloud.com.cn
+  - DOMAIN,opencloud.today
+  ###############################前缀
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,dns.alidns.com
+  - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN-SUFFIX,dot.pub
+  - DOMAIN-SUFFIX,edu.cn
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,zaobao.com
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN-SUFFIX,contactofen.site
+  ###############################关键字
+  - DOMAIN-KEYWORD,tuna
+  - DOMAIN-KEYWORD,ustc

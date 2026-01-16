@@ -1,0 +1,25 @@
+payload:
+  #################################域名
+  - DOMAIN,t66y.com
+  #################################前缀
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,wiki.metacubex.one
+  - DOMAIN-SUFFIX,sing-box.sagernet.org
+  - DOMAIN-SUFFIX,dns.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,dns.google
+  - DOMAIN-SUFFIX,dns.twnic.tw
+  - DOMAIN-SUFFIX,doh.opendns.com
+  - DOMAIN-SUFFIX,doh.dns.sb
+  - DOMAIN-SUFFIX,dns.quad9.net
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  #################################关键字
+  - DOMAIN-KEYWORD,javbus
+  - DOMAIN-KEYWORD,porn
+  #通配符语法
+  #三个通配符: . * +
+  #. 可以一次性匹配多个级别,只能用于域名前缀匹配,如.baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com, 但不能匹配 baidu.com
+  #+ 类似 DOMAIN-SUFFIX, 可以一次性匹配多个级别，只能用于域名前缀匹配，如＋.baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com 或者 baidu.com
+  #* 一次只能匹配一级域名，只匹配 localhost 等没有.的主机名，如*.baidu.com 只匹配 tieba.baidu.com 而不匹配 123.tieba.baidu.com 或者 baidu.com
