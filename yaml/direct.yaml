@@ -3,13 +3,10 @@ payload:
     - dns.alidns.com
     - doh.pub
     - dot.pub
-    - *.localhome
-    - *.contactofen.site
-    - *.itunes.apple.com
     - +.applemusic.com
-    - +.blobstore.apple.com
-    - +.music.apple.com
+    - +.apple.com
     - +.edu.cn
     - +.zaobao.com
+    - *.contactofen.site
     - +.2026896.xyz
-    - +.contactofen.site
+    - +.dfy
