@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "icloud.com.cn",
+                "dns.alidns.com",
+                "dot.pub",
+                "doh.pub",
+                "zaobao.com"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "itunes.apple.com",
+                "applemusic.com",
+                "music.apple.com",
+		"contactofen.site",
+		"2026896.xyz",
+                "blobstore.apple.com"
+            ]
+        },
+        {
+            "domain_regex": [
+                "(^|\\.)dfy$",
+                "(^|\\.)edu\\.cn$"
+            ]
+        }
+    ]
+}
